@@ -27,5 +27,4 @@
   
 ### Stats
 ![](https://leetcard.jacoblin.cool/rehanalina?theme=dark&font=Anonymous%20Pro&ext=heatmap)
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=AlinaHameed&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
-<img src="https://myreadme.vercel.app/api/embed/AlinaHameed?panels=userstatistics,toprepositories,commitgraph" alt="reimaginedreadme" />
+<img src="https://myreadme.vercel.app/api/embed/AlinaHameed?panels=userwelcome,userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
