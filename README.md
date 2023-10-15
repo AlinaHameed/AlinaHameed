@@ -18,7 +18,7 @@
 <div align="left">
 <a href="https://bento.me/alinahameed" target="_blank">
   <img src=https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white alt=website style="margin-bottom: 5px;" />
-</a> or email me at <a href="mailto:daichifg0626@gmail.com" target="_blank">alina2002hameed@gmail.com</a>
+</a> or email me at <a href="mailto:alina2002hameed@gmail.com" target="_blank">alina2002hameed@gmail.com</a>
 
 ### :hammer_and_wrench: Languages, Frameworks, and Tools
   <a href="https://skillicons.dev">
