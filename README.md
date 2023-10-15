@@ -22,10 +22,8 @@
 
 ### :hammer_and_wrench: Languages, Frameworks, and Tools
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=scala,py,cpp,js,html,css,react,nodejs,mysql,git&theme=light" />
+    <img src="https://skillicons.dev/icons?i=py,cpp,js,html,css,react,nodejs,mysql,git&theme=light" />
   </a>
-  ---
-### Github Stats  
-| <a href="https://github.com/Alinahameed"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Alinahameed&show_icons=true&include_all_commits=true&count_private=false&title_color=FF5F05&text_color=13294B&icon_color=009FD4&bg_color=F8FAFC&hide_border=false" alt="Alina's github stats" /></a> | <a href="https://github.com/Alinahameed"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Awakuruf&layout=compact&title_color=FF5F05&text_color=13294B&icon_color=009FD4&bg_color=F8FAFC&hide_border=false&langs_count=7&locale=en&hide=CSS,SCSS" /></a> 
-
-<a href="https://leetcode.com/daichifr/">![LeetCode Stats](https://leetcard.jacoblin.cool/rehanalina?theme=light&font=Fira%20Code&ext=heatmap) | <div align="center">
+  
+### Stats
+![](https://leetcard.jacoblin.cool/rehanalina?theme=dark&font=Anonymous%20Pro&ext=heatmap)
