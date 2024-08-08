@@ -4,7 +4,7 @@
 
 📚 Computer Science + Cognitive Systems and Data Science undergraduate student @ University of British Columbia, graduating in 2025.
 
-💼 Bio-Informatics and Informatics Junior @ UBC Pharmacists Clinic.
+💼 Junior Bio-Informatics and Informatics Developer @ UBC Pharmacists Clinic.
 
 👀 I’m interested in Software Development, Artificial Intelligence Engineering and, UX/UI design !
 
