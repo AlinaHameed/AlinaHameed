@@ -4,7 +4,7 @@
 
 📚 Computer Science + Cognitive Systems and Data Science undergraduate student @ University of British Columbia, graduating in 2025.
 
-💼 Junior Software developer @ Swiss Water Decaffinated Coffee Inc.
+💼 Bio-Informatics and Informatics Junior @ UBC Pharmacists Clinic.
 
 👀 I’m interested in Software Development, Artificial Intelligence Engineering and, UX/UI design !
 
