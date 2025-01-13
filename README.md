@@ -6,7 +6,7 @@
 
 💼 Junior Bio-Informatics and Informatics Developer @ UBC Pharmacists Clinic.
 
-👀 I’m interested in Software Development, Artificial Intelligence Engineering and, UX/UI design !
+👀 I’m interested in Software Development, Artificial Intelligence Engineering and, Bioinformatics!
 
 💻 Check out my portfolio website (**Temporary**) at [https://bento.me/alinahameed](https://bento.me/alinahameed)
 
