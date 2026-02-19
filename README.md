@@ -8,7 +8,7 @@
 
 👀 I’m interested in Software Development, Artificial Intelligence Engineering and, Bioinformatics!
 
-💻 Check out my portfolio website (**Temporary**) at [https://bento.me/alinahameed](https://bento.me/alinahameed)
+💻 Check out my portfolio website (**Temporary**) [here](https://kasbu.bio/alinahameed)
 
 ⚙️ Development of ReactJS Full-Stack portfolio is currently in progress!
 
